@@ -1,1 +1,5 @@
-
+-  Тетрадка с кодом:   [hw2 (Youtube+ASR).ipynb](https://github.com/kovalevaoi/hse-nlp-4Year/blob/main/hw2/hw2%20(Youtube%2BASR).ipynb)
+-  Аудио:  [video.wav](https://github.com/kovalevaoi/hse-nlp-4Year/blob/main/hw2/video.wav)
+-  Субтитры: [standart.en.json3](https://github.com/kovalevaoi/hse-nlp-4Year/blob/main/hw2/standart.en.json3)
+-  Автоматические субтитры: [video.en.json3](https://github.com/kovalevaoi/hse-nlp-4Year/blob/main/hw2/video.en.json3)
+-  Файл с результатами для каждой модели: [model_text.tsv](https://github.com/kovalevaoi/hse-nlp-4Year/blob/main/hw2/model_text.tsv)
