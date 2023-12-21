@@ -1,0 +1,121 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "In a single minute your body produces 120 to 180 million red blood cells,"
+    } ]
+  }, {
+    "tStartMs": 3940,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "people ask Google 2.4 million questions,"
+    } ]
+  }, {
+    "tStartMs": 5800,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "and 25 million Coca-Cola products are consumed."
+    } ]
+  }, {
+    "tStartMs": 7880,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Many of those bottles will end up in a landfill,"
+    } ]
+  }, {
+    "tStartMs": 9440,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "where the World Bank estimates we produce 5 million pounds of garbage."
+    } ]
+  }, {
+    "tStartMs": 12200,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "108 human lives will be lost in this minute and an adult male will lose 96 million cells."
+    } ]
+  }, {
+    "tStartMs": 16020,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Fortunately, 96 million cells divide, replacing those lost."
+    } ]
+  }, {
+    "tStartMs": 18760,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Speaking of divisions, in the USA, 1.5 people will get divorced, while world-wide, 116 people will get married,"
+    } ]
+  }, {
+    "tStartMs": 23660,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "83,300 people have sex, but only 258 babies will be born"
+    } ]
+  }, {
+    "tStartMs": 27160,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "and a fetus is developing neurons at a rate of 250,000 per minute,"
+    } ]
+  }, {
+    "tStartMs": 30500,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "so it's no wonder that a computer simulation takes 60 quadrillion bytes to simulate a minute."
+    } ]
+  }, {
+    "tStartMs": 34480,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "An average of 1.38 micrometers of rain fall around the world, which is 4.7 billion bathtubs of water every minute"
+    } ]
+  }, {
+    "tStartMs": 39300,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "and with the storms comes approximately 6,000 bolts of cloud-to-ground lightning hitting the Earth."
+    } ]
+  }, {
+    "tStartMs": 43120,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "A 150 pound person expends 1.1 calories of energy per minute while sleeping,"
+    } ]
+  }, {
+    "tStartMs": 46720,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "while the sun provides us with 83.33 terrawatts of energy."
+    } ]
+  }, {
+    "tStartMs": 49780,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "The earth will 1800 kilometers of its 940 million around the sun, moving 1,034 times faster than a cheetah,"
+    } ]
+  }, {
+    "tStartMs": 54660,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "70,000 hours of Netfilx are watched, 300 hours are uploaded to YouTube,"
+    } ]
+  }, {
+    "tStartMs": 57280,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and you can watch this video and subscribe."
+    } ]
+  } ]
+}
